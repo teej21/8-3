@@ -16,5 +16,7 @@ window.onload = () => {
     const main = document.querySelector(".main");
     main.innerHTML = "";
     main.style.height = "0";
+    const main2 = document.querySelector(".main-2");
+    main2.style.display = "flex";
   };
 };
