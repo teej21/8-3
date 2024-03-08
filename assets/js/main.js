@@ -12,6 +12,7 @@ window.onload = () => {
   }
   thoi_btn.onclick = () => {
     randomPosition();
+    alert("Phải yêu");
   };
 
   thoi_btn.onmouseover = () => {
