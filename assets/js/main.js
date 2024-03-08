@@ -11,7 +11,7 @@ window.onload = () => {
     ok_btn.style.width = "120px";
   }
   thoi_btn.onclick = () => {
-    randomPosition();
+    // randomPosition();
     alert("Phải yêu");
   };
 
